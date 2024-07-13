@@ -1,0 +1,1 @@
+- This is a small React app called "Eat & Split" where you can manage expenses and implement functionalities such as adding friends, splitting bills, selecting friends, and updating debt balances.
